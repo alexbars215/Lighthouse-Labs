@@ -1,2 +1,2 @@
 # Lighthouse-Labs
-Project App Using nmp
+Project App Using NodeJS
